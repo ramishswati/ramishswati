@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ramish Khan</h1>
+<h1 align="center"> Ramish Khan</h1>
 <h3 align="center">AI Engineer | Python • ML • LLMs | Lahore, Pakistan</h3>
 
 ---
