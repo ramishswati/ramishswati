@@ -31,6 +31,8 @@
 | House Price Prediction    | Predict house prices using ML regression              | Python, Pandas, Scikit-learn   |
 
 
+### 📊 GitHub Stats
+![Ramish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramishswati&show_icons=true&theme=tokyonight)
 ---
 
 ### 📊 GitHub Stats
