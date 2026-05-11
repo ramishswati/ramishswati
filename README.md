@@ -24,12 +24,10 @@
 ---
 
 ### 🚀 Projects
-| Project                  | Description                                           | Tools                          |
-|---------------------------|-------------------------------------------------------|--------------------------------|
-| Quiz Runner               | Secure quiz app on restricted network with real-time results | Python, Streamlit, Firebase, OpenAI API |
-| Calculator                | Simple Python calculator                             | Python                         |
-| Sentiment Analysis App    | Web app to classify text sentiment (positive/negative)| Python, Streamlit, HuggingFace |
-| PDF Chatbot (DocuMind AI) | Chat with PDFs using RAG pipeline                     | Python, Streamlit, HuggingFace |
+| [Sentiment Analysis App](https://github.com/ramishswati/sentiment-analysis-app) | NLP web app using Hugging Face Transformers | Python, Streamlit, HuggingFace |
+| [PDF Chatbot](https://github.com/ramishswati/pdf-chatbot) | AI chatbot that answers questions from PDFs | Python, LangChain, OpenAI |
+| [Drowsiness Detector](https://github.com/ramishswati/drowsiness-detector) | Real-time driver drowsiness detection system | Python, OpenCV |
+| [House Price Prediction](https://github.com/ramishswati/house-price-prediction) | ML model for predicting house prices | Python, Scikit-learn, Pandas |
 | House Price Prediction    | Predict house prices using ML regression              | Python, Pandas, Scikit-learn   |
 
 
