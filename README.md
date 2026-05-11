@@ -29,12 +29,6 @@
 | [Drowsiness Detector](https://github.com/ramishswati/drowsiness-detector) | Real-time driver drowsiness detection system | Python, OpenCV |
 | [House Price Prediction](https://github.com/ramishswati/house-price-prediction) | ML model for predicting house prices | Python, Scikit-learn, Pandas |
 | House Price Prediction    | Predict house prices using ML regression              | Python, Pandas, Scikit-learn   |
-
-
-### 📊 GitHub Stats
-![Ramish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramishswati&show_icons=true&theme=tokyonight)
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramishswati&show_icons=true&theme=tokyonight" />
